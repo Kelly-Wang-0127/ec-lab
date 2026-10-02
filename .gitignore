@@ -1,0 +1,19 @@
+# 系统
+.DS_Store
+Thumbs.db
+
+# 编辑器
+.vscode/
+.idea/
+
+# 密钥与本地配置（务必不要提交）
+.env
+*.key
+*_secret.*
+config.local.*
+
+# 缓存
+__pycache__/
+*.pyc
+node_modules/
+.cache/
